@@ -26,12 +26,25 @@ $color-text-light: #fff;
 $color-frogtek-orange: #f46423;
 $color-frogtek-green: #75a816;
 
+$color-gradient-start: #ffd86f;
+
+$color-frogtek-title: rgba(0, 0, 0, .5);
+
 $color-footer-link: #fff;
 $color-footer-text: #869791;
 
 $color-slides-dot-active: #869791;
 $color-slides-dot: #D6D6D6;
 $color-slides-dot-border: #f00;
+
+// Utils
+@mixin prefixer($property, $value) {
+  $prefixes: ("webkit", "moz", "ms");
+  @each $prefix in $prefixes {
+    #{"-" + $prefix + "-" + $property}: $value;
+  }
+  #{$property}: $value;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 
