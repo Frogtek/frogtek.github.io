@@ -39,6 +39,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# paginate blog
+paginate: 25
+paginate_path: "blog/page:num"
+post-preview-words: 128
+
 feed:
   path: /feed/index.xml
 

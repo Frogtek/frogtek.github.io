@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+    {% include common-head.html %}
+</head>
+
+<body>
+{% include common-nav.html %}
+
+<section id="blog_index" class="container">
+    <div class="row justify-content-around">
+        <div class="col-12 col-md-8">
+            <h1 class="frogtek-title border-bottom">{{ page.title }}</h1>
+
+            {{ page.content | markdownify }}
+
+            <ul>
+                {% for post in paginator.posts %}
+                <li>
+                    {% include post_excerpt.html %}
+                </li>
+                {% endfor %}
+            </ul>
+
+            <!-- Pagination links -->
+            <section id="post-navigation" class="container page-navigation">
+
+                {% if paginator.previous_page and paginator.next_page %}
+                <h4>
+                    <a href="{{ paginator.previous_page_path }}" class="previous"><i
+                            class="fa fa-chevron-left"></i> previous</a> <a
+                        href="{{ paginator.next_page_path }}" class="next">next <i
+                        class="fa fa-chevron-right"></i></a>
+                </h4>
+                {% else %}
+                {% if paginator.previous_page %}
+                <h4><a href="{{ paginator.previous_page_path }}" class="previous"><i
+                        class="fa fa-chevron-left"> previous</i></a></h4>
+                {% endif %}
+
+                {% if paginator.next_page %}
+                <h4><a href="{{ paginator.next_page_path }}" class="next">next <i
+                        class="fa fa-chevron-right"></i></a></h4>
+                {% endif %}
+                {% endif %}
+
+            </section>
+        </div>
+    </div>
+</section>
+
+
+{% include common-footer.html %}
+{% include common-scripts.html %}
+</body>
+</html>
