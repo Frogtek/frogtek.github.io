@@ -1,21 +1,23 @@
 <!doctype html>
 <html lang="en">
 <head>
-{% include common-head.html %}
+    {% include common-head.html %}
 </head>
 
 <body>
 {% include common-nav.html %}
 
-<section id="page" class="container">
-    <div class="row justify-content-around">
-        <div class="col-12 col-md-8">
-            <h1 class="frogtek-title border-bottom">&gt; {{ page.title }}</h1>
-            <small class="text-secondary">{{ page.date | date_to_string }}</small>
-            {{ content }}
+<main>
+    <section class="container post">
+        <div class="row justify-content-around">
+            <div class="col-12 col-md-8">
+                <h1 class="frogtek-title border-bottom">&gt; {{ page.title }}</h1>
+                <small class="text-secondary">{{ page.date | date_to_string }}</small>
+                {{ content }}
+            </div>
         </div>
-    </div>
-</section>
+    </section>
+</main>
 
 {% include common-footer.html %}
 {% include common-scripts.html %}

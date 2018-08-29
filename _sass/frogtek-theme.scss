@@ -58,7 +58,15 @@ footer {
     list-style: none;
   }
 
-  //
+// Posts
+.post {
+  img {
+    float: right;
+  }
+}
+
+// icons
+
   .icon {
     display: inline-block;
     width: 25px;
