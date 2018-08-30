@@ -11,6 +11,12 @@ a:hover {
   text-decoration: none;
 }
 
+nav {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
 // Global
 
 .frogtek-title {
@@ -23,8 +29,7 @@ a:hover {
 
 .btn-frogtek,
 .btn-frogtek:visited,
-.btn-frogtek:hover
-{
+.btn-frogtek:hover {
   background-color: $color-frogtek-orange;
   border-color: $color-frogtek-orange;
   color: $color-text-light;
@@ -101,6 +106,7 @@ footer {
 .home-slides {
   h3 {
     color: $color-frogtek-green;
+    text-transform: uppercase;
   }
 
   .owl-nav {

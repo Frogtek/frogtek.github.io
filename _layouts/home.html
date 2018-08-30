@@ -1,14 +1,16 @@
 <!doctype html>
 <html lang="en">
 <head>
-{% include common-head.html %}
+    {% include common-head.html %}
 </head>
 
 <body>
 {% include common-nav.html %}
 
-{% include home-slides.html %}
-{% include home-empowering.html %}
+<main>
+    {% include home-slides.html %}
+    {% include home-empowering.html %}
+</main>
 
 {% include common-footer.html %}
 {% include common-scripts.html %}
@@ -16,30 +18,20 @@
 <script src="{{baseurl}}/assets/vendor/owlcarousel2-2.3.4-dist/owl.carousel.js"></script>
 
 <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-12356867-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function () {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-
-    jQuery(document).ready(function () {
-        // Initialize Owl Carousel
-        $(".owl-carousel").owlCarousel({
-            autoplay: true,
-            nav: false,
-            dots: true,
-            loop: true,
-            items: 1,
-        });
-    });
-
+  jQuery(document).ready(function() {
+    // Initialize Owl Carousel
+    $('.owl-carousel').owlCarousel({
+      autoplay: true,
+      autoplayHoverPause: true,
+      nav: false,
+      dots: true,
+      loop: true,
+      items: 1,
+      stagePadding: 0,
+      margin: 20
+    })
+  })
 </script>
+
 </body>
 </html>
