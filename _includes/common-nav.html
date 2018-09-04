@@ -1,0 +1,25 @@
+<nav id="top" class="navbar navbar-expand-lg navbar-light bg-white">
+    <a class="navbar-brand" href="{{ site.baseurl }}/">
+        <img src="{{site.baseurl}}/assets/img/logo.png" alt="Frogtek"></a>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#frogtekMenu"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse collapse" id="frogtekMenu">
+        <ul class="nav navbar-nav ml-auto w-100 justify-content-end text-right">
+            <li>
+                <a class="nav-item nav-link {% if page.url == '/' %}active{% endif %}"
+                   href="/">Home</a>
+            </li>
+            <li>
+                <a class="nav-item nav-link {% if page.url == '/products/' %}active{% endif %}"
+                   href="/products/">Products</a>
+            </li>
+            <li>
+                <a class="nav-item nav-link {% if page.url == '/about/' %}active{% endif %}"
+                   href="/about">About us</a>
+            </li>
+        </ul>
+    </div>
+</nav>
