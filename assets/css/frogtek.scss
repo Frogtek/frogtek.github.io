@@ -37,6 +37,18 @@ $color-slides-dot-active: #869791;
 $color-slides-dot: #D6D6D6;
 $color-slides-dot-border: #f00;
 
+$color-product-1: #f46423;
+$color-product-2: #75a816;
+$color-product-3: #2a7ae2;
+$color-product-4: #ffd700;
+
+$color-trans: rgba(255, 255, 255, 0);
+
+$color-transparent-to-white: linear-gradient(to right, $color-trans 0%, $color-trans 80%, #fff 100%);
+
+$color-analytics-nav: rgba(0, 0, 0, .2);
+$color-analytics-shadow: rgba(0, 0, 0, .6);
+
 // Utils
 @mixin prefixer($property, $value) {
   $prefixes: ("webkit", "moz", "ms");
