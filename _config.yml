@@ -49,6 +49,8 @@ feed:
 
 permalink: /:year/:month/:day/:title/
 
+analytics_contact_url: "mailto:info@frogtek.org"
+
 defaults:
   -
     scope:

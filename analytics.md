@@ -1,5 +1,5 @@
 ---
 title: Frogtek analytics
 permalink: /analytics/
+layout: analytics
 ---
-coming soon
