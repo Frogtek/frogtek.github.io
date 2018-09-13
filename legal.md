@@ -4,7 +4,7 @@ permalink: /legal/
 ---
 ## Aviso de privacidad
 
-FROGTEK MÉXICO, S. de R.L (en adelante, FROGTEK), con domicilio en Avenida Javier Barros Cierra, 555 Int. Piso 7, Colonia Lomas de Santa Fe, Delegación Álvaro Obregón, CP 01219 México, Ciudad de México, es responsable de recabar sus datos personales, del uso que se le dé a los mismos y de su protección.
+FROGTEK MÉXICO, S. de R.L (en adelante, FROGTEK), con domicilio en Avenida Javier Barros Cierra, 555. Colonia Lomas de Santa Fe, Delegación Álvaro Obregón, C.P. 01219 México, Ciudad de México, es responsable de recabar sus datos personales, del uso que se le dé a los mismos y de su protección.
 
 ## Datos personales que recabamos
 
@@ -28,7 +28,7 @@ Los mecanismos que se han implementado para el ejercicio de dichos derechos son 
 
 Número telefónico: 5273-3385 o 018007679133
 Correo electrónico: soporte.mexico@frogtek.org
-Avenida Javier Barros Cierra, 555 Int. Piso 7, Colonia Lomas de Santa Fe, Delegación Álvaro Obregón, CP 01219 México, Ciudad de México
+Avenida Javier Barros Cierra, 555. Colonia Lomas de Santa Fe, Delegación Álvaro Obregón, C.P. 01219 México, Ciudad de México
 
 Podrá presentar su solicitud en cualquiera de los medios de comunicación mencionados anteriormente.
 
