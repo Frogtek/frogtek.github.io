@@ -1,0 +1,18 @@
+<div class="modal fade" id="{{include.id}}" tabindex="-1" role="dialog">
+    <div class="modal-dialog screenshot-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                {% if include.screenshot %}
+                <img src="{{site.baseurl}}/assets/img/screenshots/{{include.screenshot}}"
+                     alt="frogtek analytics img-fluid">
+                {% endif %}
+                {% if include.content %}
+                {{ content }}
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</div>

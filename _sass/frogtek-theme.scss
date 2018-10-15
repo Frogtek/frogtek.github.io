@@ -377,6 +377,39 @@ footer {
   }
 }
 
+.analytics-carousel {
+  .owl-dots {
+    color: $color-frogtek-orange;
+    -webkit-tap-highlight-color: transparent;
+    text-align: center;
+  }
+
+  .owl-dot {
+    display: inline-block;
+    zoom: 1;
+    span {
+      backface-visibility: visible;
+      background: $color-analytics-nav;
+      border-radius: 30px;
+      display: block;
+      height: 10px;
+      margin: 5px 7px;
+      transition: opacity 200ms ease;
+      width: 10px;
+    }
+  }
+
+  .owl-dot.active span,
+  .owl-dot:hover span {
+    background: $color-frogtek-orange;
+  }
+}
+
+.screenshot-dialog {
+  max-width: 1024px;
+  width: 90%;
+}
+
 .bg-analytics-nav {
   background-color: $color-analytics-nav;
 }
