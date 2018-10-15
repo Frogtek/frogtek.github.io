@@ -1,5 +1,21 @@
-<section id="products" class="container-fluid bg-light">
+{% include common-modal.html id='modal-1' screenshot='analytics_lanzamientos.png' %}
+{% include common-modal.html id='modal-2' screenshot='analytics_precios.png' %}
+{% capture content %}
+<div class="row justify-content-center p-1 p-md-4">
+    <div class="col">
+        <div class="owl-carousel analytics-carousel">
+            <img src="{{site.baseurl}}/assets/img/screenshots/analytics_categoria_1.png"
+                 alt="frogtek analytics" class="analytics-screenshot border">
+            <img src="{{site.baseurl}}/assets/img/screenshots/analytics_categoria_2.png"
+                 alt="frogtek analytics" class="analytics-screenshot border">
+        </div>
+    </div>
+</div>
+{% endcapture %}
+{% include common-modal.html id='modal-3' content=content %}
+{% include common-modal.html id='modal-4' screenshot='analytics_encuestas.png' %}
 
+<section id="products" class="container-fluid bg-light">
     <div class="row pt-1 pt-md-4">
         <div class="col text-center"><h2>Un producto <span class="analytics-brand">Frogtek Analytics</span>
             para cada necesidad</h2></div>
@@ -18,7 +34,9 @@
                         promedio por tienda, canibalización y precios</p>
                 </div>
                 <div class="text-center align-self-bottom pb-3">
-                    <a href="{{ site.analytics_contact_url }}" class="btn btn-lg btn-outline-primary">lo
+                    <button type="button" class="btn btn-lg btn-outline-primary" data-toggle="modal"
+                            data-target="#modal-1">ver ejemplo</button>
+                    <a href="{{ site.analytics_contact_url }}" class="btn btn-lg btn-primary">lo
                         quiero</a>
                 </div>
             </div>
@@ -36,7 +54,9 @@
                         necesites</p>
                 </div>
                 <div class="text-center align-self-bottom pb-3">
-                    <a href="{{ site.analytics_contact_url }}" class="btn btn-lg btn-outline-primary">lo
+                    <button type="button"  class="btn btn-lg btn-outline-primary" data-toggle="modal"
+                            data-target="#modal-2">ver ejemplo</button>
+                    <a href="{{ site.analytics_contact_url }}" class="btn btn-lg btn-primary">lo
                         quiero</a>
                 </div>
             </div>
@@ -54,7 +74,9 @@
                         numérica, ventas promedio, precios promedio</p>
                 </div>
                 <div class="text-center align-self-bottom pb-3">
-                    <a href="{{ site.analytics_contact_url }}" class="btn btn-lg btn-outline-primary">lo
+                    <button type="button" class="btn btn-lg btn-outline-primary" data-toggle="modal"
+                            data-target="#modal-3">ver ejemplo</button>
+                    <a href="{{ site.analytics_contact_url }}" class="btn btn-lg btn-primary">lo
                         quiero</a>
                 </div>
             </div>
@@ -73,7 +95,9 @@
                         que tú decidas</p>
                 </div>
                 <div class="text-center align-self-bottom pb-3">
-                    <a href="{{ site.analytics_contact_url }}" class="btn btn-lg btn-outline-primary">lo
+                    <button type="button" class="btn btn-lg btn-outline-primary" data-toggle="modal"
+                            data-target="#modal-4">ver ejemplo</button>
+                    <a href="{{ site.analytics_contact_url }}" class="btn btn-lg btn-primary">lo
                         quiero</a>
                 </div>
             </div>
