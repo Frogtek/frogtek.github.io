@@ -51,7 +51,7 @@ body {
 a,
 a:visited,
 a:hover {
-  color: $color-frogtek-green;
+  color: $color-text-light;
   text-decoration: none;
 }
 
@@ -372,7 +372,7 @@ footer {
     padding-top: 0;
     text-transform: lowercase;
     img {
-      max-width: 36px;
+      max-width: 200px;
     }
   }
 }
@@ -418,6 +418,10 @@ footer {
   color: $color-frogtek-orange;
   font-family: 'MontserratRegular';
   text-transform: lowercase;
+}
+
+.button-in-row {
+  margin: 0 auto;
 }
 
 // IE fixes
