@@ -6,47 +6,34 @@ It is based on [Jekyll](https://jekyllrb.com/) and deployed to [Github pages](ht
 
 ## Development
 
+### Install
+
 You must have `ruby` and `bundler` installed
 
 ```
-gem install bundler
+make install
 ```
 
-To install all dependencies run:
-
-```
-bundle install
-```
+### Run
 
 To run the web locally on [http://localhost:4000](http://localhost:4000)
 
 ```
-bundle exec rake serve
+make
 ```
 
-To execute all tests:
+To execute all tests (or HTML tests or Css tests only):
 
 ```
-bundle exec rake test
-```
-
-To execute only html test:
-
-```
-bundle exec rake html_lint
-```
-
-To execute only css test:
-
-```
-bundle exec rake scss_lint
+make t
+make t_html
+make t_css
 ```
 
 ## Contributing
 
 General rules:
 
-- Don't publish (commit to master) directly. Create a branch, do a pull request and request for a code review
 - Run the tests (and fix it) before merge to master
 - When possible, use Markdown (.md) instead of HTML (.html)
 
