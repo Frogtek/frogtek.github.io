@@ -202,6 +202,7 @@ footer {
   }
 
   .owl-dots {
+    margin-top: 35px;
     -webkit-tap-highlight-color: transparent;
     text-align: center;
   }
@@ -231,7 +232,25 @@ footer {
 
 .empowering {
   font-family: 'ShadowsIntoLight';
-  font-size: 3em;
+  font-size: 3.5vw;
+}
+
+@media screen and (min-width: 1140px) {
+  .empowering {
+    font-size: 55px;
+  }
+}
+
+@media all and (max-width: 540px) {
+  .empowering {
+    font-size: 18px;
+    margin-top: 15px;
+  }
+  .home-slides {
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-top: 1.5rem;
+  }
 }
 
 // About
