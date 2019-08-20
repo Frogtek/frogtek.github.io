@@ -2,14 +2,16 @@ run:
 	bundle exec rake serve
 
 install:
-	gem install bundler
 	bundle install
 
-t:
+update:
+	bundle update  --conservative
+
+test:
 	bundle exec rake test
 
-t_html:
+test_html:
 	bundle exec rake html_lint
 
-t_css:
+test_css:
 	bundle exec rake scss_lint
