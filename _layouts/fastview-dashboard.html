@@ -2,7 +2,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>{{ include.title }} :: Frogtek Analytics</title>
+    <title>{{ page.title }} :: Frogtek Analytics</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/tableros.css">
   </head>
@@ -14,7 +14,7 @@
           class="d-inline-block align-top" alt="Frogtek Analytics">
       </a>
       <div class="navbar-text flex-row ml-md-auto">
-        <div>{{ include.title }}</div>
+        <div>{{ page.title }}</div>
       </div>
       <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
         <li class="navbar-item">
@@ -27,7 +27,7 @@
         <param name='host_url' value='https%3A%2F%2F10az.online.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
         <param name='site_root' value='&#47;t&#47;frogtekdashboards' />
-        <param name='name' value='{{ include.dashboard_name }}' />
+        <param name='name' value='{{ page.dashboard_name }}' />
         <param name='tabs' value='no' />
         <param name='toolbar' value='no' />
         <param name='showAppBanner' value='false' />
