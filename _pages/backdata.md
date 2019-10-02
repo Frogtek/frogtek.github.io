@@ -1,5 +1,5 @@
 ---
 title: Frogtek Analytics - Backdata
-permalink: /analytics/backdata
+permalink: /analytics/backdata/
 layout: backdata
 ---
