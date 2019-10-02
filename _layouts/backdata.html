@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+    {% include common-head.html %}
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/vendor/aos-2.3.3/aos.css">
+</head>
+
+<body>
+
+{% include backdata-nav.html %}
+
+<main>
+    {% include backdata-cover.html %}
+    {% include backdata-features.html %}
+    {% include backdata-products.html %}
+</main>
+
+{% include analytics-footer.html %}
+
+{% include common-scripts.html %}
+<script src="{{site.baseurl}}/assets/vendor/jarallax-1.10.4/jarallax.min.js"></script>
+<script src="{{site.baseurl}}/assets/vendor/jarallax-1.10.4/jarallax-element.min.js"></script>
+<script src="{{site.baseurl}}/assets/vendor/aos-2.3.3/aos.js"></script>
+<script src="{{site.baseurl}}/assets/vendor/jquery.easing.min.js"></script>
+<script src="{{site.baseurl}}/assets/vendor/owlcarousel2-2.3.4-dist/owl.carousel.js"></script>
+<script>
+  jQuery(document).ready(function() {
+    $('.jarallax').jarallax({speed: 0.2});
+
+    AOS.init();
+
+    $('a.page-scroll').bind('click', function(event) {
+      var $anchor = $(this);
+      $('html, body').stop().animate({
+        scrollTop: ($($anchor.attr('href')).offset().top)
+      }, 1250, 'easeInOutExpo');
+      event.preventDefault();
+    });
+
+    $('.analytics-carousel').owlCarousel({
+      autoplay: true,
+      autoplayHoverPause: true,
+      dots: true,
+      items: 1,
+      loop: true,
+      margin: 20,
+      stagePadding: 0,
+    });
+  });
+</script>
+</body>
+</html>
