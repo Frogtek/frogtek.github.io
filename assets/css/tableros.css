@@ -1,0 +1,76 @@
+html, body {
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+}
+
+nav {
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 700;
+}
+
+.navbar-item {
+    text-transform: uppercase;
+}
+
+.navbar-text {
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+.navbar-brand {
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.3em;
+    font-weight: lighter;
+    text-transform: lowercase;
+}
+
+.navbar-brand img {
+    max-width: 180px;
+}
+
+.tableauPlaceholder {
+    width: 90% !important;
+    height: 90% !important;
+    margin: 0 auto;
+}
+
+iframe {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #f28e2b;
+}
+
+.nav-link {
+    color: #9a9da0;
+    font-size: 0.9em;
+}
+
+.nav-link:hover {
+    color: #f28e2b;
+}
+
+.error-page h1,
+.error-page h2 {
+    font-height: 300;
+}
+
+.error-info p {
+    color: #9a9da0;
+}
+
+.error-more {
+    font-size: 1.5em;
+}
+
+.error-more li {
+    list-style: none;
+}
+
+/* Problem with the integration between Tableau and Kommunicate */
+.fade {
+    opacity: 1 !important;
+}
