@@ -443,6 +443,14 @@ footer {
   margin: 0 auto;
 }
 
+.btn-new {
+  background-color: $color-frogtek-orange;
+  border-radius: 10px;
+  padding: 3px 7px;
+}
+
+
+
 // IE fixes
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
   .analytics-cover {
@@ -467,5 +475,6 @@ footer {
   .card-body {
     width: 100%;
   }
+
 
 }
