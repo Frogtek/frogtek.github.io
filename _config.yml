@@ -52,7 +52,7 @@ feed:
 permalink: /:year/:month/:day/:title/
 
 analytics_contact_url: "mailto:info@frogtek.org"
-analytics_form_url: "https://form.jotformeu.com/83164197880365"
+analytics_form_url: "https://www.jotform.com/83164197880365"
 
 defaults:
   -
