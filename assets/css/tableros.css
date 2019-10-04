@@ -9,10 +9,6 @@ nav {
     font-weight: 700;
 }
 
-.navbar-item {
-    text-transform: uppercase;
-}
-
 .navbar-text {
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     font-weight: lighter;
