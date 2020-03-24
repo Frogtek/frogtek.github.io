@@ -1,6 +1,7 @@
 ---
 title: Legal notes
-permalink: /legal/
+permalink: /legal_webview/
+layout: webview
 ---
 
 {% include_relative legal_contents.md %}
