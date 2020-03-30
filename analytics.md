@@ -1,5 +1,4 @@
 ---
 title: Frogtek analytics
-permalink: /analytics/
-layout: analytics
+redirect_to: https://analytics.frogtek.org
 ---
