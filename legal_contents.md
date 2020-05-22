@@ -1,6 +1,6 @@
 ## Aviso de privacidad
 
-FROGTEK ESPAÑA, S.L.U. (en adelante, FROGTEK ESPAÑA), con domicilio en Parque Tecnológico Walqa, Edificio 1, 22197, Cuarte, Huesca (España), recaba sus datos personales, los de su tienda y los datos estadísticos que el KIT Tiendatek y Tiendatek Control genera por su operación diaria, también es responsable del uso que se le dé a los mismos y de su protección.
+FROGTEK ESPAÑA, S.L.U. (en adelante, FROGTEK ESPAÑA), con domicilio en Parque Tecnológico Walqa, Edificio 1, 22197, Cuarte, Huesca (España), recaba sus datos personales, los de su tienda y los datos estadísticos que el KIT Tiendatek, Tiendatek Control, Tiendatek Clientes y TicketBox así como otras aplicaciones desarrolladas por FROGTEK ESPAÑA generan por su operación diaria, también es responsable del uso que se le dé a los mismos y de su protección.
 
 ## Datos que recabamos
 
@@ -8,7 +8,7 @@ FROGTEK ESPAÑA podrá recabar de usted los siguientes datos personales: nombre 
 
 Sus datos personales podrán ser recabados de manera escrita, a través de los formatos o contratos que utilice FROGTEK ESPAÑA, de manera personal en nuestras oficinas, o a través de teléfono o medios electrónicos.
 
-FROGTEK ESPAÑA recaba también toda la información que el KIT Tiendatek y Tiendatek Control y otras aplicaciones desarrolladas por FROGTEK ESPAÑA SLU generan en su operación diaria. Esto es, entre otros muchos datos, información de ventas, compras e inventarios.
+FROGTEK ESPAÑA recaba también toda la información que el KIT Tiendatek, Tiendatek Control, Tiendatek Clientes, TicketBox y otras aplicaciones desarrolladas por FROGTEK ESPAÑA generan en su operación diaria. Esto es, entre otros muchos datos, información de ventas, compras e inventarios.
 
 ## Uso de sus datos
 
