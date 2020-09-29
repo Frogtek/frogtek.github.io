@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/Frogtek/frogtek.om-site.svg)](https://travis-ci.org/Frogtek/frogtek.com-site)
 
 This is the source code for [frogtek.com](http://frogtek.com) website.
-It is based on [Jekyll](https://jekyllrb.com/) and deployed to [Github pages](https://pages.github.com)
+It is based on [Jekyll](https://jekyllrb.com/) and deployed to [Github pages](https://pages.github.com).
 
 ## Install/run from local
 
