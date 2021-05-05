@@ -51,7 +51,8 @@ body {
 a,
 a:visited,
 a:hover {
-  color: $color-text-light;
+  color: $color-frogtek-link;
+  font-weight: bold;
   text-decoration: none;
 }
 
