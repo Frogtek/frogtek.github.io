@@ -1,5 +1,5 @@
 ---
-title: Legal notes
+title: Política de privacidad
 permalink: /legal/
 ---
 
