@@ -1,6 +1,6 @@
 ---
 title: Política de privacidad
-permalink: /legal_webview/
+permalink: /legal_apps/52/
 layout: webview
 ---
 
