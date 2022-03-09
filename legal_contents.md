@@ -9,12 +9,12 @@
 
 <h3>II. IDENTIDAD Y DOMICILIO DEL RESPONSABLE:</h3>
 <h5>Datos del Responsable:</h5>
-<p>El Responsable del tratamiento de los datos personales (en lo sucesivo denominado como “Datos”) es FROGTEK ESPAÑA, S.L. (en adelante, FROGTEK ESPAÑA), representado por D. Guillermo Caudevilla Laliena.</p>
+<p>El Responsable del tratamiento de los datos personales (en lo sucesivo denominado como “Datos”) es FROGTEK ESPAÑA, S.L. (en adelante, FROGTEK ESPAÑA).</p>
 <p>Con domicilio en: Parque Tecnológico Walqa, 22197, Cuarte, Huesca (España).</p>
 <p>Para ponerse en contacto con el responsable del tratamiento puede escribirnos mediante <a href="https://form.jotform.com/210282535906353">este formulario</a>.</p>
 
 <h3>III. DATOS DE CONTACTO DEL DELEGADO DE PROTECCIÓN DE DATOS (DPD)</h3>
-<p>D. Guillermo Caudevilla Laliena ha sido designado como el Delegado de Protección de Datos, y puede ser contactado a través de las siguientes vías:</p>
+<p>El Delegado de Protección de Datos puede ser contactado a través de las siguientes vías:</p>
 <p>Domicilio: en Parque Tecnológico Walqa, 22197, Cuarte, Huesca (España)</p>
 <p>Mándanos un mensaje mediante <a href="https://form.jotform.com/210282535906353">este formulario</a>.</p>
 
@@ -411,4 +411,4 @@
 <h3>Modificación de la Política de Uso de Cookies</h3>
 <p>Nuestra política de uso de cookies podría sufrir modificaciones unilateralmente cuando sea requerido. Toda modificación se hará efectiva a partir de la última fecha de revisión, misma que se indicará en esta política o bien, también podríamos optar por enviarte un correo electrónico para notificarte las actualizaciones. </p>
 <p>Le invitamos a revisar periódicamente esta Política de Uso de Cookies con la finalidad de que esté enterado sobre la manera en la que las utilizamos.</p>
-<p>Fecha de última actualización: <strong>25 de enero de 2021</strong></p>
+<p>Fecha de última actualización: <strong>01 de marzo de 2022</strong></p>

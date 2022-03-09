@@ -24,12 +24,12 @@
 
   <h2>II. IDENTIDAD Y DOMICILIO DEL RESPONSABLE:</h2>
   <h5>Datos del Responsable:</h5>
-  <p>El Responsable del tratamiento de los datos personales (en lo sucesivo denominado como “Datos”) es FROGTEK ESPAÑA, S.L. (en adelante, FROGTEK ESPAÑA), representado por D. Guillermo Caudevilla Laliena.</p>
+  <p>El Responsable del tratamiento de los datos personales (en lo sucesivo denominado como “Datos”) es FROGTEK ESPAÑA, S.L. (en adelante, FROGTEK ESPAÑA).</p>
   <p>Con domicilio en: Parque Tecnológico Walqa, 22197, Cuarte, Huesca (España).</p>
   <p>Para ponerse en contacto con el responsable del tratamiento puede escribirnos mediante <a href="https://form.jotform.com/210282535906353">este formulario</a>.</p>
 
   <h2>III. DATOS DE CONTACTO DEL DELEGADO DE PROTECCIÓN DE DATOS (DPD)</h2>
-  <p>D. Guillermo Caudevilla Laliena ha sido designado como el Delegado de Protección de Datos, y puede ser contactado a través de las siguientes vías:</p>
+  <p>El Delegado de Protección de Datos puede ser contactado a través de las siguientes vías:</p>
   <p>Domicilio: en Parque Tecnológico Walqa, 22197, Cuarte, Huesca (España)</p>
   <p>Mándanos un mensaje mediante <a href="https://form.jotform.com/210282535906353">este formulario</a>.</p>
 
@@ -307,5 +307,5 @@
   <hr />
 
   <p class="policy-dates">Fecha de la primera política de privacidad: <strong>25 de enero de 2021</strong></p>
-  <p class="policy-dates">Fecha de última actualización: <strong>25 de enero de 2021</strong></p>
+  <p class="policy-dates">Fecha de última actualización: <strong>01 de marzo de 2022</strong></p>
 
