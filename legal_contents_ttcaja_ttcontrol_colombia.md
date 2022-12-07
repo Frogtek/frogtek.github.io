@@ -201,6 +201,10 @@
   <h5>Derecho a la portabilidad de tus datos</h5>
   <p>Tendrás derecho a recibir los datos personales que te incumban, que nos hayas facilitado, en un formato estructurado, de uso común y lectura mecánica, para después poder transmitirlos a un otro responsable del tratamiento. De la misma forma, puedes pedir al DPD que los datos personales se transmitan directamente al otro responsable que tú nos indiques, cuando sea técnicamente posible.</p>
 
+  <p>-------------------</p>
+
+  <p>Para ejercer cualquiera de estos derechos, puedes hacerlo desde <a href='https://form.jotform.com/210391733600345'>este formulario</a>.</p>
+
   <h2>IX. CATEGORIA DE DESTINATARIOS DE DATOS PERSONALES</h2>
   <p>El destinatario es la persona física o jurídica, autoridad pública, servicio u otro organismo al que se comuniquen datos personales, se trate o no de un tercero. En nuestro caso, el principal destinatario de datos personales es FROGTEK COLOMBIA, S.A.S (FROGTEK Colombia) quien hace las veces de un encargado.</p>
 
