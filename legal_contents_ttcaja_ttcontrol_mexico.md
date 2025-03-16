@@ -1,4 +1,4 @@
-<h2 id="aviso-de-privacidad">Política de Privacidad Tiendatek y Tiendatek Control</h2>
+<h2 id="aviso-de-privacidad">Política de Privacidad Tiendatek y Tiendatek Conecta</h2>
 
 <p>¡Gracias por haber descargado nuestras aplicaciones! Aquí podrás conocer cómo tratamos tus datos personales:</p>
 
@@ -16,9 +16,9 @@
   <h2>I. PRESENTACIÓN DE NOSOTROS</h2>
   <p>Somos una empresa social que busca ayudar a los tenderos de países emergentes a aumentar los ingresos de sus tiendas de abarrotes y competir en mejores condiciones. Lo hacemos, principalmente, ofreciendo aplicaciones que ayudan a gestionar y a optimizar las ventas de micronegocios.</p>
 
-  <p>Actualmente, las aplicaciones desarrolladas por FROGTEK ESPAÑA, S.L. son: Tiendatek Caja, Tiendatek Control, Tiendatek Clientes y TicketBox, las cuales son compatibles con sistemas Android y se puede descargar a través de GooglePlay. También son desarrollo de Frogtek España: Tiendatek Desktop, versión de Tiendatek para PC; Frogboard y Frogtek Analytics, aplicaciones que sólo están disponibles a través de la web.</p>
+  <p>Actualmente, las aplicaciones desarrolladas por FROGTEK ESPAÑA, S.L. son: Tiendatek POS, Tiendatek Conecta, las cuales son compatibles con sistemas Android y se puede descargar a través de GooglePlay. También son desarrollo de Frogtek España: Tiendatek Desktop, versión de Tiendatek para PC; Frogboard y Frogtek Analytics, aplicaciones que sólo están disponibles a través de la web.</p>
 
-  <p>Las operaciones de venta, distribución, capacitación y soporte a tenderos (usuarios de las aplicaciones de Tiendatek Caja, Tiendatek Control y Tiendatek Clientes) son gestionadas por nuestro encargado en México, pero el desarrollo de la tecnología, la operación de las aplicaciones y mantenimiento técnico se hace desde España.</p>
+  <p>Las operaciones de venta, distribución, capacitación y soporte a tenderos (usuarios de las aplicaciones de Tiendatek POS y Tiendatek Conecta) son gestionadas por nuestro encargado en México, pero el desarrollo de la tecnología, la operación de las aplicaciones y mantenimiento técnico se hace desde España.</p>
 
   <p>Te informaremos de cualquier novedad relacionado con tus datos a través de este medio o a tu correo electrónico.</p>
 
@@ -56,7 +56,7 @@
           <td>Individuo (titular del dato)</td><td>Datos personales</td><td>Finalidades</td>
       </tr>
       <tr>
-          <td>Usuarios de las aplicaciones Tiendatek Caja y Tiendatek Control (tenderos)</td>
+          <td>Usuarios de las aplicaciones Tiendatek POS y Tiendatek Conecta (tenderos)</td>
           <td>
               <ul>
                   <li>Nombre y apellido completo</li>
@@ -72,7 +72,7 @@
           <td>
               <p>Primarias</p>
               <ul>
-                  <li>Proveer los servicios de las aplicaciones Tiendatek Caja y Tiendatek Control </li>
+                  <li>Proveer los servicios de las aplicaciones Tiendatek POS y Tiendatek Conecta </li>
                   <li>Realizar encuestas sobre el uso de la aplicación</li>
                   <li>Monitoreo del uso e interacción con nuestras aplicaciones </li>
                   <li>Soporte técnico</li>
@@ -250,7 +250,7 @@
           <th>Periodo de retención</th>
       </tr>
       <tr>
-          <td rowspan="3">Usuarios Tiendatek Caja y Tiendatek Control (tenderos)</td>
+          <td rowspan="3">Usuarios Tiendatek POS y Tiendatek Conecta (tenderos)</td>
           <td>Los datos necesarios para la ejecución de un contrato se conservan durante toda la duración de la relación contractual. Es decir que se efectuará una eliminación de los datos a partir de la terminación del contrato con el tendero, a excepción de que los datos no sean necesarios para cumplir con una obligación legal aplicable en el país del responsable (ESPAÑA).</td>
       </tr>
       <tr>
@@ -311,5 +311,5 @@
   <hr />
 
   <p class="policy-dates">Fecha de la primera política de privacidad: <strong>25 de enero de 2021</strong></p>
-  <p class="policy-dates">Fecha de última actualización: <strong>01 de marzo de 2022</strong></p>
+  <p class="policy-dates">Fecha de última actualización: <strong>17 de marzo de 2025</strong></p>
 
