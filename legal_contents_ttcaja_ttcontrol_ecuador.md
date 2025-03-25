@@ -18,7 +18,7 @@
 
   <p>Actualmente, las aplicaciones desarrolladas por FROGTEK ESPAÑA, S.L. son: Tiendatek POS, Tiendatek Conecta, las cuales son compatibles con sistemas Android y se puede descargar a través de GooglePlay. También son desarrollo de Frogtek España: Tiendatek Desktop, versión de Tiendatek para PC; Frogboard y Frogtek Analytics, aplicaciones que sólo están disponibles a través de la web.</p>
 
-  <p>Las operaciones de venta, distribución, capacitación y soporte a tenderos (usuarios de las aplicaciones de Tiendatek POS y Tiendatek Conecta) son gestionadas por nuestro encargado en Colombia, pero el desarrollo de la tecnología, la operación de las aplicaciones y mantenimiento técnico se hace desde España.</p>
+  <p>Las operaciones de venta, distribución, capacitación y soporte a tenderos (usuarios de las aplicaciones de Tiendatek POS y Tiendatek Conecta) son gestionadas por nuestro encargado en México, pero el desarrollo de la tecnología, la operación de las aplicaciones y mantenimiento técnico se hace desde España.</p>
 
   <p>Te informaremos de cualquier novedad relacionado con tus datos a través de este medio o a tu correo electrónico.</p>
 
@@ -206,7 +206,7 @@
   <p>Para ejercer cualquiera de estos derechos, puedes hacerlo desde <a href='https://form.jotform.com/210391733600345'>este formulario</a>.</p>
 
   <h2>IX. CATEGORIA DE DESTINATARIOS DE DATOS PERSONALES</h2>
-  <p>El destinatario es la persona física o jurídica, autoridad pública, servicio u otro organismo al que se comuniquen datos personales, se trate o no de un tercero. En nuestro caso, el principal destinatario de datos personales es FROGTEK COLOMBIA, S.A.S (FROGTEK Colombia) quien hace las veces de un encargado.</p>
+  <p>El destinatario es la persona física o jurídica, autoridad pública, servicio u otro organismo al que se comuniquen datos personales, se trate o no de un tercero. En nuestro caso, el principal destinatario de datos personales es FROGTEK MÉXICO, S.A.P.I. DE C.V (FROGTEK México) quien hace las veces de un encargado.</p>
 
   <p>A continuación, presentamos una tabla en donde se detallan los destinatarios de los datos, con la finalidad de que conozcas quién tiene tus datos personales:</p>
 
@@ -217,14 +217,14 @@
       </tr>
       <tr>
           <td>Encargado del tratamiento</td>
-          <td>FROGTEK COLOMBIA, S.A.S. Con domicilio Cl 48 L Sur No. 5 M 48, Bogotá D.C.</td>
+          <td>FROGTEK MÉXICO, S.A.P.I. DE C.V. Con domicilio Insurgentes Sur 319, int. 303 B, Colonia Hipódromo, Delegación Cuauhtémoc, C.P. 06100 Ciudad de México, México</td>
           <td>Operación, comercialización y distribución de las aplicaciones.</td>
           <td>Retail & Big data</td>
           <td>Indicados en esta Política de Privacidad</td>
       </tr>
       <tr>
           <td>Terceros</td>
-          <td>SOCIOS COMERCIALES COLOMBIA</td>
+          <td>SOCIOS COMERCIALES ECUADOR</td>
           <td>Empresas interesadas en informes de inteligencia de mercado.</td>
           <td>Retail & Big data</td>
           <td>Indicados en esta Política de Privacidad</td>
@@ -239,7 +239,7 @@
   </table>
 
   <h2>X. TRANSFERENCIA </h2>
-  <p>Para cumplir con los alcances del contrato que hemos celebrado contigo o para cumplir con las obligaciones de los servicios que has aceptado en los términos y condiciones al descargar la aplicación, es necesario que comuniquemos tus datos personales a nuestra filial en Colombia: Frogtek Colombia. Recuerda que puedes consultar las finalidades del tratamiento en el Capítulo V de esta Política de Privacidad. </p>
+  <p>Para cumplir con los alcances del contrato que hemos celebrado contigo o para cumplir con las obligaciones de los servicios que has aceptado en los términos y condiciones al descargar la aplicación, es necesario que comuniquemos tus datos personales a nuestra filial en México: Frogtek México. Recuerda que puedes consultar las finalidades del tratamiento en el Capítulo V de esta Política de Privacidad. </p>
   <p>Nosotros tenemos acuerdos con socios comerciales de países terceros para compartir datos estadísticos de hábitos de consumo de los usuarios de nuestras aplicaciones. Esta transferencia nos permite mejorar nuestras herramientas de inteligencia de mercado y optimizar nuestras aplicaciones.</p>
   <p>También transferimos datos con nuestros prestadores de servicios en la nube para poder almacenar tus datos personales y nos aseguramos de que cumplan con los mismos niveles de seguridad que nosotros.</p>
   <p>En otras palabras, la transferencia de tus datos personales permite que Frogtek España realice un servicio de apoyo a los negocios pequeños en países en desarrollo. Nuestras aplicaciones ayudan a pequeños comercios a llevar una gran gestión de su negocio.</p>
@@ -310,6 +310,6 @@
 
   <hr />
 
-  <p class="policy-dates">Fecha de la primera política de privacidad: <strong>01 de marzo de 2022</strong></p>
+  <p class="policy-dates">Fecha de la primera política de privacidad: <strong>17 de marzo de 2025</strong></p>
   <p class="policy-dates">Fecha de última actualización: <strong>17 de marzo de 2025</strong></p>
 

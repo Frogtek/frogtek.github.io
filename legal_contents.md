@@ -1,9 +1,9 @@
 <h3>I. PRESENTACIÓN DE NOSOTROS</h3>
 <p>Somos una empresa social que busca ayudar a los tenderos de países emergentes a aumentar los ingresos de sus tiendas de abarrotes y competir en mejores condiciones. Lo hacemos, principalmente, ofreciendo aplicaciones que ayudan a gestionar y a optimizar las ventas de micronegocios.</p>
 
-<p>Actualmente, las aplicaciones desarrolladas por FROGTEK ESPAÑA, S.L. son: Tiendatek Caja, Tiendatek Control, Tiendatek Clientes y TicketBox, las cuales son compatibles con sistemas Android y se pueden descargar a través de GooglePlay. También son desarrollo de Frogtek España: Tiendatek Desktop, versión de Tiendatek para PC; Frogboard y Frogtek Analytics, aplicaciones que sólo están disponibles a través de la web.</p>
+<p>Actualmente, las aplicaciones desarrolladas por FROGTEK ESPAÑA, S.L. son: Tiendatek POS, Tiendatek Conecta, las cuales son compatibles con sistemas Android y se pueden descargar a través de GooglePlay. También son desarrollo de Frogtek España: Tiendatek Desktop, versión de Tiendatek para PC; Frogboard y Frogtek Analytics, aplicaciones que sólo están disponibles a través de la web.</p>
 
-<p>Las operaciones de venta, distribución, capacitación y soporte a tenderos (usuarios de las aplicaciones de Tiendatek Caja, Tiendatek Control y Tiendatek Clientes) son gestionadas por nuestro encargado en México, pero el desarrollo de la tecnología, la operación de las aplicaciones y mantenimiento técnico se hace desde España.</p>
+<p>Las operaciones de venta, distribución, capacitación y soporte a tenderos (usuarios de las aplicaciones de Tiendatek POS y Tiendatek Conecta) son gestionadas por nuestro encargado en México, pero el desarrollo de la tecnología, la operación de las aplicaciones y mantenimiento técnico se hace desde España.</p>
 
 <p>Te informaremos de cualquier novedad relacionada con tus datos a través de este medio.</p>
 
@@ -297,7 +297,7 @@
 <p>El medio para dar a conocer dichas modificaciones será a través de nuestro sitio web o mediante notificaciones a tu correo electrónico.</p>
 
 <p class="policy-dates">Fecha de la primera política de privacidad: <strong>25 de enero de 2021</strong></p>
-<p class="policy-dates">Fecha de última actualización: <strong>25 de enero de 2021</strong></p>
+<p class="policy-dates">Fecha de última actualización: <strong>17 de marzo de 2025</strong></p>
 
 <hr />
 
