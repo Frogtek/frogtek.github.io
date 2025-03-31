@@ -2,7 +2,7 @@
 
 <p>¡Gracias por haber descargado nuestras aplicaciones! Aquí podrás conocer cómo tratamos tus datos personales:</p>
 
-  <h2>TIENDATEK CAJA Y TIENDATEK CONTROL</h2>
+  <h2>TIENDATEK POS Y TIENDATEK CONECTA</h2>
 
   <p>Son unas aplicaciones que permiten a los tenderos:</p>
   <ol>
