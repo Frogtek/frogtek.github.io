@@ -18,7 +18,7 @@
 
   <p>Actualmente, las aplicaciones desarrolladas por FROGTEK ESPAÑA, S.L. son: Tiendatek POS, Tiendatek Conecta, las cuales son compatibles con sistemas Android y se puede descargar a través de GooglePlay. También son desarrollo de Frogtek España: Tiendatek Desktop, versión de Tiendatek para PC; Frogboard y Frogtek Analytics, aplicaciones que sólo están disponibles a través de la web.</p>
 
-  <p>Las operaciones de venta, distribución, capacitación y soporte a tenderos (usuarios de las aplicaciones de Tiendatek POS y Tiendatek Conecta) son gestionadas por nuestro encargado en México, pero el desarrollo de la tecnología, la operación de las aplicaciones y mantenimiento técnico se hace desde España.</p>
+  <p>Las operaciones de venta, distribución, capacitación y soporte a tenderos (usuarios de las aplicaciones de Tiendatek POS y Tiendatek Conecta) son gestionadas por nuestro encargado en Ecuador, pero el desarrollo de la tecnología, la operación de las aplicaciones y mantenimiento técnico se hace desde España.</p>
 
   <p>Te informaremos de cualquier novedad relacionado con tus datos a través de este medio o a tu correo electrónico.</p>
 
